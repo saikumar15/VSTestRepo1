@@ -8,6 +8,7 @@ namespace GitExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Add server");
+             Console.WriteLine("Add Fetch");
             //...............changes
         }
     }
